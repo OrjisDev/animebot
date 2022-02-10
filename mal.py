@@ -2,7 +2,7 @@ from deep_translator import GoogleTranslator
 import requests
 #Import des deux bibliotheques pour traduire et faire des requêtes à l'API Myanimelist
 
-Header = {"X-MAL-CLIENT-ID" : "195d3a691a54aa2dc87e301aefac86ff" #Header pour authentifier la requête 
+Header = {"X-MAL-CLIENT-ID" : "VOTRE TOKEN D'API MAL" #Header pour authentifier la requête 
     }
 
 def get_anime(Anime):
