@@ -110,4 +110,4 @@ async def animesearch(ctx: SlashContext, nom_anime:str):
         await button_ctx.edit_origin(embed=embed,components=[])
 
 
-bot.run("MzI5Mjk3NjEwOTY5OTcyNzM2.WVKITA.k2JFumGpZaIsS02IZfK3-YRz_VM")
+bot.run("VOTRE TOKEN DE BOT")
